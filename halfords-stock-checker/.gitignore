@@ -1,0 +1,6 @@
+/.venv
+/.vscode
+__pycache__/selenium.cpython-39.pyc
+geckodriver.log
+config.py
+__pycache__/config.cpython-39.pyc
