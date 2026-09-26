@@ -1,6 +1,10 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# SpawnTerror 2020
+# -----------------------------------------------------------------------------
+# Script:      check_stock.py
+# Description: Check Halfords Item For Stock
+# Author:      Spawn
+# Date:        2020-03-25
+# Environment: Python 3.x
+# -----------------------------------------------------------------------------
 
 from selenium import webdriver
 import platform
