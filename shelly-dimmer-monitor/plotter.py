@@ -1,6 +1,10 @@
-### Shelly Dimmer 2 Plotter 
-### Temperature / Brightness over Time
-### SpawnTerror 2021
+# -----------------------------------------------------------------------------
+# Program:     plotter.py
+# Description: Monitor Shelly Dimmer 2's Temperature / Brightness over Time 
+# Author:      Spawn
+# Date:        2021-04-15
+# Environment: Python 3.x
+# -----------------------------------------------------------------------------
 
 import datetime as dt
 import matplotlib.pyplot as plt
