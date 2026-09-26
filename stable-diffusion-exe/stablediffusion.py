@@ -1,6 +1,10 @@
-# Stable Diffusion Exe
-# Python 3
-# Execute stable diffusion .bat file
+# -----------------------------------------------------------------------------
+# Program:     stablediffusion.py
+# Description: Stable Diffusion Executable Pinnable To The Taskbar
+# Author:      Spawn
+# Date:        2025-05-23
+# Environment: Python 3.x
+# -----------------------------------------------------------------------------
 
 import subprocess
 import os
